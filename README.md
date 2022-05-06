@@ -1,2 +1,2 @@
-# image-to-html-1
+Quick
 https://sristigtrisha.github.io/image-to-html-1/
